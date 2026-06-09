@@ -1,0 +1,24 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "Login/signup screen",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanzizwritin/Login-Signup-Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nanzizwritin/Login-Signup-Page/issues"
+  },
+  "homepage": "https://github.com/nanzizwritin/Login-Signup-Page#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
